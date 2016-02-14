@@ -1,0 +1,10 @@
+{
+  "name": "template",
+  "version": "0.9.0",
+  "description": "This is a normal template",
+  "keywords": ["gulp", "sass", "static"],
+  "licenses": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
